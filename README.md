@@ -15,14 +15,11 @@ A simple and intuitive Android application for converting units, currently suppo
 
 ## 📸 Screenshots
 
-**Tampilan Utama:**
-![Main Screen](screenshoot/UI%20app.png)
-
-
-**Proses Konversi:**
-![Convert Celsius to Fahrenheit](screenshoot/Convert%20C%20to%20F.png)
-![Convert Fahrenheit to Celsius](screenshoot/convert%20with%20expression.png)
-
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <img src="screenshoot/UI%20app.png" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="screenshoot/Convert%20C%20to%20F.png" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="screenshoot/convert%20with%20expression.png" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
 
 ## 🛠️ Technologies Used
 
