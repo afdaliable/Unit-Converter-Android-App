@@ -1,6 +1,6 @@
 # Unit Converter App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Opsional: Tambahkan badge lisensi jika ada -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 A simple and intuitive Android application for converting units, currently supporting temperature conversions between Celsius and Fahrenheit. This project demonstrates fundamental Android development concepts including UI design with XML, ViewModel for UI logic, LiveData for reactive UI updates, and basic animations.
 
@@ -15,16 +15,14 @@ A simple and intuitive Android application for converting units, currently suppo
 
 ## 📸 Screenshots
 
-<!-- Tambahkan screenshot aplikasi Anda di sini. Anda bisa mengunggah gambar ke repositori GitHub Anda (misalnya dalam folder /screenshots) dan menautkannya. -->
-<!-- Contoh: -->
-<!-- ![App Screenshot 1](screenshots/screenshot1.png) -->
-<!-- ![App Screenshot 2](screenshots/screenshot2.png) -->
-
 **Tampilan Utama:**
+![Main Screen](screenshoot/UI%20app.png)
 
 
 **Proses Konversi:**
-*(Deskripsikan apa yang terlihat di screenshot ini)*
+![Convert Celsius to Fahrenheit](screenshoot/Convert%20C%20to%20F.png)
+![Convert Fahrenheit to Celsius](screenshoot/convert%20with%20expression.png)
+
 
 ## 🛠️ Technologies Used
 
@@ -35,8 +33,10 @@ A simple and intuitive Android application for converting units, currently suppo
     *   **ViewModel:** To store and manage UI-related data in a lifecycle-conscious way.
     *   **LiveData:** To build data objects that notify views when underlying data changes.
     *   **AppCompat:** For backward compatibility of Material Design components.
-*   **View Binding (atau findViewById seperti dalam kode Anda):** For accessing UI elements.
+*   **View Binding :** For accessing UI elements.
 *   **Basic View Animations:** For enhancing user experience.
+*  **Exp4j**: Library untuk evaluasi ekspresi matematika.
+
 
 ## 🚀 How to Use
 
@@ -54,7 +54,7 @@ A simple and intuitive Android application for converting units, currently suppo
     ```bash
     git clone https://github.com/afdaliable/UnitConverter-Android-App
     ```
-    2.  **Open in Android Studio:**
+2.  **Open in Android Studio:**
     *   Open Android Studio.
     *   Select "Open an Existing Project".
     *   Navigate to the cloned directory and select it.
@@ -78,4 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-*This README was created to showcase the Unit Converter application as part of my developer portfolio.*
