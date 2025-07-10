@@ -21,7 +21,7 @@ A simple and intuitive Android application for converting units, currently suppo
 <!-- ![App Screenshot 2](screenshots/screenshot2.png) -->
 
 **Tampilan Utama:**
-*(Deskripsikan apa yang terlihat di screenshot ini)*
+
 
 **Proses Konversi:**
 *(Deskripsikan apa yang terlihat di screenshot ini)*
